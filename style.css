@@ -1,8 +1,19 @@
-p{
+paragrafo1 {
     color:brown;
     text-align: center;
     font-size: 20px;
 }
+paragrafo2 {
+    color:rgb(16, 120, 27);
+    text-align: center;
+    font-size: 20px;
+}
+paragrafo2 {
+    color:rgb(116, 65, 11);
+    text-align: center;
+    font-size: 20px;
+}
+
 #título {
     text-align: center;
     color:red
