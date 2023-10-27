@@ -20,7 +20,8 @@ body{
 
 #título {
     text-align: center;
-    color:red
+    color:red;
+    font-size: 40px;
 }
 #subtitulo {
     text-align: center;
