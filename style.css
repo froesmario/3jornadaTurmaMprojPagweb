@@ -36,10 +36,16 @@ h1 {
 
 .cabecalho{
 background-color: #1640D6;
+    margin: 0;
+    padding: 10%;
 }
 .conteudo{
 background-color: rgb(0, 255, 115);
+margin: 0;
+padding: 10%;
 }
 .rodape{
 background-color: rgb(0, 255, 55);
+margin: 0;
+padding: 10%;
 }
