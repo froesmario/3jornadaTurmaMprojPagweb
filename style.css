@@ -26,7 +26,10 @@ h1 {
     text-align: center;
     color:rgb(235, 16, 16)
 }
-
+#logo {
+    margin: 0;
+    padding: 5%;
+}
 .cabecalho{
 background-color: #1640D6;
     margin: 0;
