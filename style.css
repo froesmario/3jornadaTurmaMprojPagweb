@@ -1,6 +1,4 @@
-body{
-    background-color: rgb(152, 252, 58);
-}
+
  
 
 
@@ -9,7 +7,7 @@ h1 {
 }  
 
 .paragrafo1 {
-    color:#a52a2a;
+    color:#0e0505;
     text-align: center;
     font-size: 20px;
 }
@@ -24,11 +22,6 @@ h1 {
     font-size: 20px;
 }
 
-#título {
-    text-align: center;
-    color:rgb(231, 37, 37);
-    font-size: 40px;
-}
 #subtítulo {
     text-align: center;
     color:rgb(235, 16, 16)
@@ -38,6 +31,9 @@ h1 {
 background-color: #1640D6;
     margin: 0;
     padding: 5%;
+    font-size: 32px;
+    color: white;
+    border-bottom: 5px solid white;
 }
 .conteudo{
 background-image: linear-gradient(FF90C2);
@@ -45,7 +41,7 @@ margin: 0;
 padding: 10%;
 }
 .rodape{
-background-color: rgb(0, 255, 55);
+background-color: rgb(0, 132, 255);
 margin: 0;
 padding: 5%;
 }
