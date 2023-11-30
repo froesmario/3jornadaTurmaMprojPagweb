@@ -39,6 +39,7 @@ background-color: #1640D6;
     font-size: 32px;
     color: white;
     border-bottom: 5px solid white;
+    display: flex;
 }
 .conteudo{
 background-image:linear-gradient(rgb(12, 189, 189) rgb(44, 142, 142) #772a2a);
