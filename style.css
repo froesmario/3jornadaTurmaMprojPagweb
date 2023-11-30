@@ -27,8 +27,10 @@ h1 {
     color:rgb(235, 16, 16)
 }
 #logo {
+    padding: 0%;
     margin: 0;
     padding: 5%;
+    border-radius: 10px;
 }
 .cabecalho{
 background-color: #1640D6;
