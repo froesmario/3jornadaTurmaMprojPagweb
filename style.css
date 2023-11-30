@@ -39,6 +39,7 @@ background-color: #1640D6;
     font-size: 32px;
     color: white;
     border-bottom: 5px solid white;
+    justify-content: space-around;
     display: flex;
 }
 .conteudo{
